@@ -1,0 +1,11 @@
+torch
+tensorflow
+streamlit
+networkx
+sentencepiece
+transformers
+SpeechRecognition
+edge-tts
+audio-recorder-streamlit
+streamlit-float
+PyAudio

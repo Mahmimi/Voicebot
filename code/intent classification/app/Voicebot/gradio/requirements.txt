@@ -1,0 +1,8 @@
+torch
+tensorflow
+gradio
+networkx
+sentencepiece
+transformers
+SpeechRecognition
+edge-tts
